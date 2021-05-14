@@ -4,7 +4,7 @@ My first app to convert dolar to others currency, made in react-native with expo
 The app makes a request to an API through axios, where a .json promise is obtained with the monetary values ​​of the current quote.
 
 ## Demo
-![alt text](https://im2.ezgif.com/tmp/ezgif-2-3085604aca49.gif "Demo CoinConvert")
+![alt text](https://images-ext-1.discordapp.net/external/i8LgSD640z0vh9k9v1UbmlrkEipmOFLZX7mrswYiTAA/https/im2.ezgif.com/tmp/ezgif-2-3085604aca49.gif?width=274&height=490 "Demo CoinConvert")
 
 ## Dependencies and Libraries
 * Expo
